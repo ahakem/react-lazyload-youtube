@@ -25,10 +25,12 @@ const App = () => {
   return <Youtube width="640px" height="480px" videoId="mfxQy5A_tHs"/>
 }
 ```
+
 ## Props
-`videoId` = string (YouTube Video ID)
-`width` = string (value in px or any unit)
-`height` = string (value in px or any unit)
+  * Available Props
+    * `videoId` - string (Youtube Video ID)
+    * `width` - string (value in `px` or any unit)
+    * `height` - string (value in `px` or any unit)
 
 ## License
 
