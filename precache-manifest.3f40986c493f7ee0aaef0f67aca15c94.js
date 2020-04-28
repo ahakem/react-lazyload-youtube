@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e80d7bb93fb015f2d2e6b67c6991242",
+    "revision": "addc11e655b9c15bd80b73be53746969",
     "url": "/react-lazyload-youtube/index.html"
   },
   {
-    "revision": "f2b89a69d07b41083c68",
+    "revision": "6c7872be75abc3eec655",
     "url": "/react-lazyload-youtube/static/css/main.2e4c3461.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-lazyload-youtube/static/js/2.66bce458.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2b89a69d07b41083c68",
-    "url": "/react-lazyload-youtube/static/js/main.e618aead.chunk.js"
+    "revision": "6c7872be75abc3eec655",
+    "url": "/react-lazyload-youtube/static/js/main.f077f7ae.chunk.js"
   },
   {
     "revision": "82c312e9016af7e0a32e",
