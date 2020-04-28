@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-lazyload-youtube/static/css/main.2e4c3461.chunk.css",
+    "main.js": "/react-lazyload-youtube/static/js/main.e618aead.chunk.js",
+    "main.js.map": "/react-lazyload-youtube/static/js/main.e618aead.chunk.js.map",
+    "runtime-main.js": "/react-lazyload-youtube/static/js/runtime-main.1f71073b.js",
+    "runtime-main.js.map": "/react-lazyload-youtube/static/js/runtime-main.1f71073b.js.map",
+    "static/js/2.66bce458.chunk.js": "/react-lazyload-youtube/static/js/2.66bce458.chunk.js",
+    "static/js/2.66bce458.chunk.js.map": "/react-lazyload-youtube/static/js/2.66bce458.chunk.js.map",
+    "index.html": "/react-lazyload-youtube/index.html",
+    "precache-manifest.fd877ce3af067a739cb4a48df4084569.js": "/react-lazyload-youtube/precache-manifest.fd877ce3af067a739cb4a48df4084569.js",
+    "service-worker.js": "/react-lazyload-youtube/service-worker.js",
+    "static/css/main.2e4c3461.chunk.css.map": "/react-lazyload-youtube/static/css/main.2e4c3461.chunk.css.map",
+    "static/js/2.66bce458.chunk.js.LICENSE.txt": "/react-lazyload-youtube/static/js/2.66bce458.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f71073b.js",
+    "static/js/2.66bce458.chunk.js",
+    "static/css/main.2e4c3461.chunk.css",
+    "static/js/main.e618aead.chunk.js"
+  ]
+}
