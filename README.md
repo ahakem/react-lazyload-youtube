@@ -14,7 +14,7 @@ or
 yarn add react-lazyload-youtube
 ```
 ## Demo
-[Demo](https://ahakem.github.io/react-lazyload-youtube/)
+[https://ahakem.github.io/react-lazyload-youtube/](https://ahakem.github.io/react-lazyload-youtube/)
 ## Usage
 
 ```jsx
@@ -34,4 +34,4 @@ const App = () => {
 
 ## License
 
-MIT © [ahakim](https://github.com/ahakim)
+MIT © [ahakem](https://github.com/ahakim)
