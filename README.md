@@ -1,29 +1,32 @@
 # react-lazyload-youtube
 
-> LazyLoad YouTube Videos
+> LazyLoad YouTube Videos for faster page load and better performance
 
 [![NPM](https://img.shields.io/npm/v/react-lazyload-youtube.svg)](https://www.npmjs.com/package/react-lazyload-youtube) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save react-lazyload-youtube
+npm install react-lazyload-youtube
 ```
-
+or 
+```bash
+yarn add react-lazyload-youtube
+```
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
-
-import MyComponent from 'react-lazyload-youtube'
+import  Youtube  from 'react-lazyload-youtube'
 import 'react-lazyload-youtube/dist/index.css'
 
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
+const App = () => {
+  return <Youtube width="500px" height="500px" videoId="mfxQy5A_tHs"/>
 }
 ```
+## Props
+`videoId` = string (YouTube Video ID)
+`width` = string (value in px or any unit)
+`height` = string (value in px or any unit)
 
 ## License
 
