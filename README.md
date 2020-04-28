@@ -13,6 +13,8 @@ or
 ```bash
 yarn add react-lazyload-youtube
 ```
+## Demo
+[Demo](https://ahakem.github.io/react-lazyload-youtube/)
 ## Usage
 
 ```jsx
@@ -20,7 +22,7 @@ import  Youtube  from 'react-lazyload-youtube'
 import 'react-lazyload-youtube/dist/index.css'
 
 const App = () => {
-  return <Youtube width="500px" height="500px" videoId="mfxQy5A_tHs"/>
+  return <Youtube width="640px" height="480px" videoId="mfxQy5A_tHs"/>
 }
 ```
 ## Props
