@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-lazyload-youtube/precache-manifest.3f40986c493f7ee0aaef0f67aca15c94.js"
+  "/react-lazyload-youtube/precache-manifest.edf498387961db4d890817fe2faafc56.js"
 );
 
 self.addEventListener('message', (event) => {
