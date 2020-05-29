@@ -1,6 +1,6 @@
 # react-lazyload-youtube
 
-> LazyLoad YouTube Videos for faster page load and better performance
+> Super lightweight LazyLoad YouTube Videos for faster page load and better performance
 
 [![NPM](https://img.shields.io/npm/v/react-lazyload-youtube.svg)](https://www.npmjs.com/package/react-lazyload-youtube) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -29,9 +29,10 @@ const App = () => {
 ## Props
   * Available Props
     * `videoId` - string (Youtube Video ID)
-    * `width` - string (value in `px` or any unit)
-    * `height` - string (value in `px` or any unit)
+    * `width` - string (value in `px` or any unit) defult value : 100%
+    * `height` - string (value in `px` or any unit) defult value : 400px
+    * `imgSize` - string (default, hqdefault, mqdefault, sddefault, maxresdefault) defult value : mqdefault
 
 ## License
 
-MIT © [ahakem](https://github.com/ahakim)
+MIT © [ahakem](https://github.com/ahakem)

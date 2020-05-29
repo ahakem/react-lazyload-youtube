@@ -1,16 +1,17 @@
-.videoImg{
+.image{
   position: relative;
-  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #000;
+  cursor: pointer;
 }
-
 .playButton {
   cursor: pointer;
-  position: absolute;
-  left: 0;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  margin: auto;
+  position: relative;
   height: 60px;
   width: 100px;
   background-color: rgba(0, 0, 0, 0.7);
@@ -31,4 +32,7 @@
   border-style: solid;
   border-width: 12.5px 0 12.5px 20px;
   border-color: transparent transparent transparent rgba(255, 255, 255, 1);
+} 
+.image:hover .playButton{
+  background-color: #FF0000;
 }
