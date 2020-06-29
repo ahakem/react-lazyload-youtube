@@ -3,6 +3,8 @@
 > Super lightweight LazyLoad YouTube Videos for faster page load and better performance
 
 [![NPM](https://img.shields.io/npm/v/react-lazyload-youtube.svg)](https://www.npmjs.com/package/react-lazyload-youtube) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![downloads](https://img.shields.io/npm/dm/react-lazyload-youtube.svg)](https://www.npmjs.com/package/react-lazyload-youtube)
+
 
 ## Install
 
