@@ -1,6 +1,6 @@
 {
   "name": "react-lazyload-youtube",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Super lightweight LazyLoad YouTube Videos for faster page load and better performance",
   "author": "ahakem",
   "license": "MIT",
