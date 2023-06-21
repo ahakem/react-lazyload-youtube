@@ -13,7 +13,7 @@ const Youtube = (props) => {
           src={`https://www.youtube.com/embed/${videoId}?autoplay=1&showinfo=0`}
           frameBorder='0'
           allowFullScreen
-          autoplay='1'
+          autoplay={autoplay}
         ></iframe>
       ) : (
         <div
