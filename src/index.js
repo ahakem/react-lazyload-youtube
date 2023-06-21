@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import styles from './styles.module.css'
 
 const Youtube = (props) => {
-  const { videoId, width, height, imgSize } = props
+  const { videoId, width, height, imgSize, autoplay } = props
   const [showVideo, setShowVideo] = useState(false)
   return (
     <React.Fragment>
@@ -13,6 +13,7 @@ const Youtube = (props) => {
           src={`https://www.youtube.com/embed/${videoId}?autoplay=1&showinfo=0`}
           frameBorder='0'
           allowFullScreen
+          autoplay={autoplay}
         ></iframe>
       ) : (
         <div
